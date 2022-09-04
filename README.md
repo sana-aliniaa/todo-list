@@ -6,6 +6,8 @@ The backend service is implemented using Express and Mongoose.
 To run the project, both services should be launched using *npm run build-start* command.  
 
 **NOTE** You need to have *MongoDB* installed in your local
+Play todolist1.gif for a simple demo.
+
 
 # Launch the application
 
