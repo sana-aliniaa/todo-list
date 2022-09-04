@@ -1,0 +1,9 @@
+#gridContainer {
+    width: 70%;
+}
+
+.demo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
