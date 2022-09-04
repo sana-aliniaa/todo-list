@@ -7,5 +7,16 @@ To run the project, both services should be launched using *npm run build-start*
 
 **NOTE** You need to have *MongoDB* installed in your local
 
+# Launch the application
+
+```
+cd TODO_BE  
+npm install  
+npm run build-start  
+
+cd TODO_FE  
+open TDOO.html in browser (e.g., using LiveServer in vscode) 
+```
+
 # Demo  
 Play *todolist1.gif* for a simple demo.  
